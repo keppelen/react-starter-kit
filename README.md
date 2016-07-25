@@ -1,5 +1,5 @@
-# enzyme-example-mocha
-Example project with React + Enzyme + Mocha
+# Node React Stack
+Example project with React + React to String + Enzyme + Mocha
 
 - Node/Express
 - React + React Router + Redux
