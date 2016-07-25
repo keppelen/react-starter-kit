@@ -1,0 +1,27 @@
+{
+  "extends": "airbnb",
+  "settings": {
+    "react": {
+      "pragma": "React",
+      "version": "15.0"
+    }
+  },
+  "globals": {
+    "__DEVCLIENT__": true,
+    "__DEVSERVER__": true
+  },
+  "parser": "babel-eslint",
+  "plugins": ["mocha", "react"],
+  "rules": {
+    "import/no-unresolved": 0,
+    "comma-dangle": 0,
+    "new-cap": 0,
+    "no-unders": 0,
+    "no-underscore-dangle": 0,
+    "max-len": 0,
+    "react/prefer-stateless-function": 0,
+    "no-param-reassign": 0,
+    "react/sort-comp": 0,
+    "mocha/no-exclusive-tests": "error"
+  }
+}

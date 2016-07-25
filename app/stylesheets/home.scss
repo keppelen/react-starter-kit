@@ -1,0 +1,15 @@
+@import "ui";
+
+.home {
+  .header {
+    @extend %title;
+  }
+
+  .icon {
+    background: url('/assets/images/react.png');
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+  }
+}
