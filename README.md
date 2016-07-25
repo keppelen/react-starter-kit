@@ -1,4 +1,4 @@
-# Node React Stack
+# Node React Starter Kit
 Example project with React + React to String + Enzyme + Mocha
 
 - Node/Express
